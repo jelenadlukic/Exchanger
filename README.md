@@ -55,3 +55,4 @@ Sa sledećim funkcionalnostima:
 # Klikabilni prototip se nalazi na linku ispod </br>
 https://xd.adobe.com/view/64c5ed00-61c1-4756-5464-3b97370d481b-12f4/
 #
+<img src="https://user-images.githubusercontent.com/46841380/58752985-5798ee80-84b8-11e9-8489-90ae37843856.png" >
