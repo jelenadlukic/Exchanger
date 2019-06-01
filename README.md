@@ -24,5 +24,6 @@ Sa sledećim funkcionalnostima:
 *Klikom na Map stavku iz menija, korisnik može da vidi svoju trenutnu lokaciju i lokaciju svih korisnika aplikacije.
 
 <img src="https://user-images.githubusercontent.com/46841380/58752643-e4d94480-84b2-11e9-9f3d-80691837a481.png" >
-<img src="https://user-images.githubusercontent.com/46841380/58752658-06d2c700-84b3-11e9-9ea9-9e0d5ef73d15.png" >
 <img src="https://user-images.githubusercontent.com/46841380/58752659-06d2c700-84b3-11e9-9369-79fc2cb022d4.png" >
+<img src="https://user-images.githubusercontent.com/46841380/58752658-06d2c700-84b3-11e9-9ea9-9e0d5ef73d15.png" >
+
