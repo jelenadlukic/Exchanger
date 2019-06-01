@@ -34,5 +34,5 @@ Sa sledećim funkcionalnostima:
 <img src="https://user-images.githubusercontent.com/46841380/58752699-d0497c00-84b3-11e9-893c-95f4bb645ae8.png" >
 <img src="https://user-images.githubusercontent.com/46841380/58752700-d3dd0300-84b3-11e9-9e8c-eb86cf44aeed.png" >
 
-
+*Klikom na Settings stavku iz menija, korisnik ima mogućnost da aplikaciji dozvoli izvršavanje u pozadini.
 
