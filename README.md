@@ -43,3 +43,6 @@ Sa sledećim funkcionalnostima:
 <img src= "https://user-images.githubusercontent.com/46841380/58752782-14894c00-84b5-11e9-84ac-2c0134db9a7d.png" >
 <img src= "https://user-images.githubusercontent.com/46841380/58752781-14894c00-84b5-11e9-9d50-a12264861469.png" >
 
+*Klikom na Ranking list stavku iz menija, korisnik može da vidi listu svojih prijatelja koja je sortirana po broju osvojenih poena.
+<img src="https://user-images.githubusercontent.com/46841380/58752818-819ce180-84b5-11e9-8094-74d98be130ef.png" >
+
