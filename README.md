@@ -27,3 +27,8 @@ Sa sledećim funkcionalnostima:
 <img src="https://user-images.githubusercontent.com/46841380/58752659-06d2c700-84b3-11e9-9369-79fc2cb022d4.png" >
 <img src="https://user-images.githubusercontent.com/46841380/58752658-06d2c700-84b3-11e9-9ea9-9e0d5ef73d15.png" >
 
+*Klikom na Make friends stavku iz menija, korisnik može da uključi/isključi bluetooth ili da učini uredjaj vidljivim tako što klikne na dugme BLUETOOTH SETTINGS. Klikom na dugme ADD FRIEND, pronalazi sve vidljive uredjaje u blizini. Zahtev za prijateljstvo se šalje klikom na željeni uredjaj. Drugi korisnik mora da odobri zahtev.
+
+
+
+
