@@ -53,5 +53,5 @@ Sa sledećim funkcionalnostima:
 
 
 # Klikabilni prototip se nalazi na linku ispod </br>
-https://xd.adobe.com/view/64c5ed00-61c1-4756-5464-3b97370d481b-12f4/screen/f7ab1c1b-c67e-4e32-9b77-2e596a48f2b3/Android-Mobile-3
+https://xd.adobe.com/view/64c5ed00-61c1-4756-5464-3b97370d481b-12f4/
 #
