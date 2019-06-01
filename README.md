@@ -40,6 +40,5 @@ Sa sledećim funkcionalnostima:
 
 *Klikom na Object stavku iz menija, korisnik može da vidi sve lokacije na kojima je moguće menjati sličice. Takodje ima mogućnost dodavanja novog objekta klikom na željeno mesto na mapi. Nakon toga izlazi dijalog, ako ga korisnik potvrdi novi objekat će bii dodat na mapu.
 
-<img src=" https://user-images.githubusercontent.com/46841380/58752781-14894c00-84b5-11e9-9d50-a12264861469.png" >
 <img src= "https://user-images.githubusercontent.com/46841380/58752782-14894c00-84b5-11e9-84ac-2c0134db9a7d.png" >
 
