@@ -14,9 +14,11 @@ Sa sledećim funkcionalnostima:
 
 *Nakon uspesnog prijavljivanja otvara se Početna strana sa navigacijom.
 
-<img src="https://user-images.githubusercontent.com/46841380/58752563-3e407400-84b1-11e9-8a99-c5ea4e848b8b.png" height="200">
-<img src="https://user-images.githubusercontent.com/46841380/58752562-3e407400-84b1-11e9-8260-33781f7d9607.png" height="200">
+<img src="https://user-images.githubusercontent.com/46841380/58752563-3e407400-84b1-11e9-8a99-c5ea4e848b8b.png">
+<img src="https://user-images.githubusercontent.com/46841380/58752562-3e407400-84b1-11e9-8260-33781f7d9607.png">
 
 *Klikom na Profile stavku iz menija, korisnik ima uvid u sve sličice koje poseduje,kao i mogućnostda da doda nove. Dodavanje se vrši upisom broja u pravougaonik na dnu strana, a klikom na dufme ADD se ažurira lista.
 
 <img src="https://user-images.githubusercontent.com/46841380/58752597-0d147380-84b2-11e9-8dff-589aac583de4.png" >
+
+*Klikom na Map stavku iz menija, korisnik može da vidi svoju trenutnu lokaciju i lokaciju svih korisnika aplikacije.
