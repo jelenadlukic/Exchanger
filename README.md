@@ -36,3 +36,5 @@ Sa sledećim funkcionalnostima:
 
 *Klikom na Settings stavku iz menija, korisnik ima mogućnost da aplikaciji dozvoli izvršavanje u pozadini.
 
+<img src="https://user-images.githubusercontent.com/46841380/58752740-74332780-84b4-11e9-98fd-502dbb512032.png" >
+
