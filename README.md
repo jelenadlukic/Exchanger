@@ -29,6 +29,10 @@ Sa sledećim funkcionalnostima:
 
 *Klikom na Make friends stavku iz menija, korisnik može da uključi/isključi bluetooth ili da učini uredjaj vidljivim tako što klikne na dugme BLUETOOTH SETTINGS. Klikom na dugme ADD FRIEND, pronalazi sve vidljive uredjaje u blizini. Zahtev za prijateljstvo se šalje klikom na željeni uredjaj. Drugi korisnik mora da odobri zahtev.
 
+<img src="https://user-images.githubusercontent.com/46841380/58752695-caec3180-84b3-11e9-8b31-34331970e23c.png" >
+<img src="https://user-images.githubusercontent.com/46841380/58752697-cd4e8b80-84b3-11e9-9715-516c834ccc9a.png" >
+<img src="https://user-images.githubusercontent.com/46841380/58752699-d0497c00-84b3-11e9-893c-95f4bb645ae8.png" >
+<img src="https://user-images.githubusercontent.com/46841380/58752700-d3dd0300-84b3-11e9-9e8c-eb86cf44aeed.png" >
 
 
 
