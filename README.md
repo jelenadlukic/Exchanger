@@ -10,3 +10,9 @@ Sa sledećim funkcionalnostima:
 
 
 <img src="https://user-images.githubusercontent.com/46841380/58752506-13095500-84b0-11e9-9942-067bb7258cd8.png" >
+<img src="https://user-images.githubusercontent.com/46841380/58752538-b9555a80-84b0-11e9-9c36-178edfd36457.png" >
+
+*Nakon uspesnog prijavljivanja otvara se Početna strana sa navigacijom.
+
+<img src="https://user-images.githubusercontent.com/46841380/58752506-13095500-84b0-11e9-9942-067bb7258cd8.png" >
+<img src="https://user-images.githubusercontent.com/46841380/58752538-b9555a80-84b0-11e9-9c36-178edfd36457.png" >
