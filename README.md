@@ -49,3 +49,5 @@ Sa sledećim funkcionalnostima:
 *Klikom na Search stavku iz menija, korisnik može da pretraži objekte na mapi uz mogućnost promene radijusa pretrage.
 <img src ="https://user-images.githubusercontent.com/46841380/58752840-f07a3a80-84b5-11e9-9ec5-5e8625bbf342.png" >
 
+*Klikom na Sign out stavku iz menija, korisniku se prikazuje ektan za logovanje.
+
