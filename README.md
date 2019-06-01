@@ -46,3 +46,6 @@ Sa sledećim funkcionalnostima:
 *Klikom na Ranking list stavku iz menija, korisnik može da vidi listu svojih prijatelja koja je sortirana po broju osvojenih poena.</br>
 <img src="https://user-images.githubusercontent.com/46841380/58752818-819ce180-84b5-11e9-8094-74d98be130ef.png" >
 
+*Klikom na Search stavku iz menija, korisnik može da pretraži objekte na mapi uz mogućnost promene radijusa pretrage.
+<img src ="https://user-images.githubusercontent.com/46841380/58752840-f07a3a80-84b5-11e9-9ec5-5e8625bbf342.png" >
+
